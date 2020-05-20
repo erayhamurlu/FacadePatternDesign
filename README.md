@@ -1,9 +1,9 @@
-# Facade DEsign Pattern
+# Facade Design Pattern
 
 ### Screenshots
 
-<img src="images/1.JPG" alt="Smiley face" height="452" width="803">
-<img src="images/2.JPG" alt="Smiley face" height="452" width="803">
+<img src="image/1.JPG" alt="Smiley face" height="452" width="803">
+<img src="image/2.JPG" alt="Smiley face" height="452" width="803">
 
 ### Created & Maintained By
 
